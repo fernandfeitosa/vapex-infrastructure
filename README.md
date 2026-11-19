@@ -1,5 +1,7 @@
 Vapex Cloud Game
 
+[![Image](https://imgshare.cc/i/uvksi3mn.webp)](https://imgshare.cc/uvksi3mn)
+
 Plataforma experimental de Cloud Gaming.
 
 O Vapex Cloud Game é um MVP desenvolvido para explorar a viabilidade técnica e comercial de uma solução de acesso remoto a computadores para jogos, integrando infraestrutura computacional, serviços financeiros e armazenamento em nuvem.
